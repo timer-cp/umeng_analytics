@@ -1,8 +1,9 @@
 name: umeng_analytics
 description:  Plugin of Umeng Analytics.
-version: 0.0.1
-author:
-homepage:
+version: 0.1.0
+#author: Timer
+homepage: https://github.com/timer-cp
+repository: https://github.com/timer-cp/umeng_analytics.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
