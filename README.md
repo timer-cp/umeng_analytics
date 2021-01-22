@@ -1,7 +1,13 @@
 # umeng_analytics
 
  Plugin of Umeng Analytics.
- 友盟官方Flutter插件实现不太好，而且繁琐，自己实现的一个，可以直接添加使用。
+ 友盟统计官方Flutter插件实现不好，而且繁琐，自己实现的一个，可以直接添加使用。
+ github库直接引用方式：
+ ```
+ umeng_analytics:
+     git:
+       url: https://github.com/timer-cp/umeng_analytics.git
+ ```
 
 ## User Guide
 
